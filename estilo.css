@@ -20,7 +20,7 @@ img{
 }
 
 h1{
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
     color: rgb(0, 0, 0);
@@ -37,4 +37,3 @@ img{
 }
 .titulo2{
     text-align: left;
-}
